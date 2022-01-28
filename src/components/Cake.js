@@ -4,7 +4,7 @@ const Cake = () => {
     <>
       <div className="cakecomponent">
         <div className="iconsbtns">
-        <img src={cakeimage} alt="image" className="cakeimg" />
+        <img src={cakeimage} alt="" className="cakeimg" />
         <h3>CAKE</h3>
         <label className="switch">
           <input type="checkbox" />
